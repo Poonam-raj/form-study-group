@@ -8,3 +8,5 @@ It aims to recap:
 - Semantic elements that can makeup a form
 - The value of attributes like 'id' 'name' 'for' etc.
 - Form validation
+
+<!-- these changes are for fridays study grp -->
